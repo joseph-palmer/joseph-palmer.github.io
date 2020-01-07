@@ -1,1 +1,51 @@
-hello world!
+<!DOCTYPE html>
+<div class="maincont">
+    <head lang="en">
+        <title> Joseph PG Palmer </title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <div class="tophead">
+            <div class="headercont">
+                <div class="header">
+                    <h1 id="name">Joseph PG. Palmer</h1>
+                    <h2 id="status">Biology PhD Student</h2>
+                </div>
+                <hr>
+                <div class="headerlinks">
+                    {% block content %}
+                    <a class="linkbtn" href="{% url 'publications' %}">Publications</a>
+                    <a class="linkbtn" href="{% url 'presentations' %}">Presentations</a>
+                    {% endblock content %}
+                </div>
+            </div>
+        </div>
+    </head>
+    <body>
+        <div class="bodycont">
+            <body>
+                <div id="sideinfo_wrapper">
+                    <div id="sideinfo">
+                        <img src="../../static/index/resources/Picofme.jpg" id="profilepic">
+                        <a href="https://github.com/joseph-palmer" target="_blank">
+                            <img src="../../static/index/resources/github.png" class="logo">
+                        </a>
+                        <br>
+                        <a href="https://twitter.com/joepgpalmer" target="_blank">
+                            <img src="../../static/index/resources/twitter.png" class="logo">
+                        </a>
+                        <br>
+                        <a href="mailto:Joe.Palmer.2019@live.rhul.ac.uk" target="_blank">
+                            <img src="../../static/index/resources/outlook.png" class="logo">
+                        </a>
+                    </div>
+                 </div>
+                <div id="intro">
+                    {{ file_content|safe }}
+                </div>
+            </body>
+        </div>
+    </body>
+    <footer>
+        <hr>
+        <p>Joseph PG Palmer 2020</p>
+    </footer>
+</div>
