@@ -35,3 +35,5 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 gem "minimal-mistakes-jekyll"
 
 gem 'jekyll-twitter-plugin'
+
+gem "kramdown", ">= 2.3.1"
