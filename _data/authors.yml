@@ -1,0 +1,18 @@
+Joseph Palmer:
+  name        : "Joseph Palmer"
+  bio         : "Quantitative Ecologist<br>Royal Holloway University of London"
+  location    : "London, UK"
+  avatar      : "assets/Picofme.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:joe.palmer.2019@live.rhul.ac.uk"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/joseph-palmer"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/joepgpalmer"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0002-5593-9352"

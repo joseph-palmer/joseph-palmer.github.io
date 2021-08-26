@@ -1,0 +1,11 @@
+main:
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=ZYFqIhwAAAAJ&hl=en
+  - title: "Software"
+    url: /software/
+  - title: "Qualifications"
+    url: /qualifications/
+  - title: Presentations
+    url: /presentations/

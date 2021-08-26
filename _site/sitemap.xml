@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/jekyll/update/2021/08/25/welcome-to-jekyll.html</loc>
+<lastmod>2021-08-25T15:02:38+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/presentations/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/qualifications/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/research/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/software/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/posters/MMEE_poster_2019_v4.pdf</loc>
+<lastmod>2021-08-26T11:47:05+01:00</lastmod>
+</url>
+</urlset>
