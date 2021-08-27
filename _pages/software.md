@@ -15,4 +15,4 @@ I work mainly in R, where I have experience writing CRAN listed packages, and Py
 
 As a [CMEE](http://www.imperial.ac.uk/life-sciences/postgraduate/masters-courses/computational-methods-in-ecology-and-evolution/) graduate, I am well trained in computational methods. As such I adopt a flexible and multilingual approach to programming.
 
-You can checkout my software projects at [my GitHub](https://github.com/joseph-palmer)
+You can checkout my software projects on [GitHub](https://github.com/joseph-palmer)
